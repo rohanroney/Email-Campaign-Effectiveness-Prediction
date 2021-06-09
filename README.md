@@ -43,9 +43,9 @@ prospective customers into leads so that they stay with them in Business.
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/Harsh1091996/Email_Campaign_Effectiveness_Prediction/blob/main/data_email_campaign.csv) within this repo.
+2. Raw Data is being kept [here](https://github.com/rohanroney/Email-Campaign-Effectiveness-Prediction/blob/main/data_email_campaign.csv) within this repo.
     
-3. Complete notebook containing Data exploration/Data processing/transformation/model development is being kept [here](https://github.com/Harsh1091996/Email_Campaign_Effectiveness_Prediction/blob/main/Team_3_Email_Campaign_Effectiveness_Prediction.ipynb)
+3. Complete notebook containing Data exploration/Data processing/transformation/model development is being kept [here](https://github.com/rohanroney/Email-Campaign-Effectiveness-Prediction/blob/main/Email_Campaign_Effectiveness_Prediction.ipynb)
  
 
 
