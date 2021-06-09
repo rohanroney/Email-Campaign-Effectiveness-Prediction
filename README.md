@@ -49,16 +49,4 @@ prospective customers into leads so that they stay with them in Business.
  
 
 
-
-
-## Contributing AlmaBetter Team Members
-
-
-|Name     |  Email Address   | 
-|---------|-----------------|
-|[Himanshu]| @harshsharma1091996@gmail.com        |
-|[Rohan]|     @rohanroney98@gmail.com    |
-|[Shweta]| @Shwetasingh8597@gmail.com        |
-|[Sweety]|     @sweetyjunnarkar17@gmail.com    |
-
-* Feel free to contact team members with any questions.
+* Feel free to contact @rohanroney98@gmail.com with any questions.
